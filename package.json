@@ -1,10 +1,10 @@
 {
-  "name": "autocomplete-html",
-  "version": "0.8.0",
-  "description": "HTML element and attribute autocompletions",
+  "name": "autocomplete-lua",
+  "version": "0.0.1",
+  "description": "SM5 lua function autocompletions",
   "main": "./lib/main",
   "license": "MIT",
-  "repository": "https://github.com/atom/autocomplete-html",
+  "repository": "https://github.com/ARCofSpada/autocomplete-sm5/",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
